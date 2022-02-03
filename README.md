@@ -1,2 +1,2 @@
-# Burp4SSRF
+# Burp4SSRF Beta
 burp extension for SSRF
